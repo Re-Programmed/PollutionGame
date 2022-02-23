@@ -1,0 +1,5 @@
+- Basic Terrain (Trees, Cliffs, Ground)
+- Plants and Flora
+- Pollution/Corrupted Land
+- Buildings
+- Fight Pollution
